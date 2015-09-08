@@ -1,4 +1,15 @@
 
+.drop-area {
+    padding: 1em;
+    font-size: 1.5em;
+    border: 2px dashed grey;
+    width: 15em;
+    margin: 0 auto;
+}
+.over {
+    background: lightgrey;
+    border: 2px solid grey;
+}
 body {
     text-align: center;
 }
